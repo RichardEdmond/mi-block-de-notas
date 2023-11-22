@@ -5,8 +5,8 @@
 ### Módulo 0
 - Chat GPT
 - Herramientas y primeros auxilios para desarolladores
-### [Módulo I](temario/modulo-1.md)
-- Intro a la Web
+### [Módulo I]
+- [Intro a la Web](temario/modulo-1.md)
 ### Módulo II
 - JavaScrip
 ### Módulo III
