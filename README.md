@@ -5,23 +5,23 @@
 ### Módulo 0
 - Chat GPT
 - Herramientas y primeros auxilios para desarolladores
-### [Módulo I]
-- [Intro a la Web](temario/modulo-1.md)
-### Módulo II
+### [Módulo I](temario/modulo-1.md)
+- Intro a la Web
+### [Módulo II](temario/modulo-2.md)
 - JavaScrip
-### Módulo III
+### [Módulo III](temario/modulo-3.md)
 - Computer Science
-### Módulo IV
+### [Módulo IV](temario/modulo-4.md)
 - JavaScrip Avanzado
-### Módulo V
+### [Módulo V](temario/modulo-5.md)
 - Frontend
-### Módulo VI
+### [Módulo VI](temario/modulo-6.md)
 - Frontend Avanzado
-### Módulo VII
+### [Módulo VII](temario/modulo-7.md)
 - Backend
-### Módulo VIII
+### [Módulo VIII](temario/modulo-8.md)
 - Backend Avanzado + NoSQL
-### Módulo IX
+### [Módulo IX](temario/modulo-9.md)
 - Fullstack
-### Módulo X
+### [Módulo X](temario/modulo-10.md)
 - DevOps
