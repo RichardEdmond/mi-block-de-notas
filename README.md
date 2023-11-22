@@ -2,7 +2,7 @@
 -Cada módulo tiene una duración de 4 semanas 
 
 ## Temario
-### Módulo 0
+### [Módulo 0](temario/modulo-0.md)
 - Chat GPT
 - Herramientas y primeros auxilios para desarolladores
 ### [Módulo I](temario/modulo-1.md)
