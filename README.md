@@ -4,7 +4,7 @@
 ## Temario
 ### Módulo 0
 - Chat GPT + Herramientas y primeros auxilios para desarolladores
-### Módulo I
+### [Módulo I](temario/modulo-1)
 - Intro a la Web
 ### Módulo II
 - JavaScrip
